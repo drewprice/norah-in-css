@@ -142,12 +142,14 @@ div div {
 
 .ribbon_l {
 	margin-left: 31.5px;
+	-webkit-transform: rotate(8deg);
 	transform: rotate(8deg);
 	border-radius: 0 0 25px 5px;
 }
 
 .ribbon_r {
 	margin-left: 53.5px;
+	-webkit-transform: rotate(-8deg);
 	transform: rotate(-8deg);
 	border-radius: 0 0 5px 25px;
 }
